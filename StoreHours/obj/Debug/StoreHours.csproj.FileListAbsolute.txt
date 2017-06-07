@@ -1,0 +1,1 @@
+D:\LeetCode\StoreHours\StoreHours\bin\Debug\StoreHours.exe.config
